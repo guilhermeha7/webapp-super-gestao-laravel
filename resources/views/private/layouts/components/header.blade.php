@@ -1,0 +1,1 @@
+<div class="text-center bg-primary text-white p-5"><h2> {{ $title }}</h2></div>
